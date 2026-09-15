@@ -6,10 +6,10 @@
 
 <img src="https://img.shields.io/github/followers/Dazzanova?style=flat-square&color=2F80ED&label=followers" alt="followers" />
 
-<br/>
+<br/><br/>
 
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dazzanova&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dazzanova&layout=compact&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Dazzanova&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dazzanova&layout=compact&hide_border=true" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://github-profile-trophy-tsjcv1x7k.vercel.app/?username=Dazzanova&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Dazzanova&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
 
 <br/><br/>
 
