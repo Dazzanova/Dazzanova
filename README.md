@@ -51,6 +51,7 @@
 
 <div align="center">
 
-<img src="./assets/snake.svg" width="100%"/>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dazzanova/Dazzanova/output/github-contribution-grid-snake.svg" />
+</p>
 </div>
