@@ -2,19 +2,23 @@
 
 <img src="./assets/daz-banner.png" width="75%" alt="Hi, I am Daz"/>
 
-<div align="center">
+<table align="center">
+<tr>
+<td width="40%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dazzanova&theme=default" width="90%"/>
+<img src="./assets/streak.svg" width="100%" height="200" alt="GitHub Streak"/>
 
-</div>
+</td>
+
+<td width="50%" height="100" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dazzanova&theme=default"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
-
-<div align="center">
-
-<img height="165" src="./assets/streak.svg" alt="GitHub Streak"/>
-
-</div>
 
 </div>
 
