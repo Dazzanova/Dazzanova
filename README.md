@@ -10,7 +10,11 @@
 
 <br/>
 
-<img src="./assets/streak.svg" height="150"/>
+<div align="center">
+
+<img height="165" src="./assets/streak.svg" alt="GitHub Streak"/>
+
+</div>
 
 </div>
 
