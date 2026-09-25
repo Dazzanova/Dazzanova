@@ -16,7 +16,7 @@
 
 ---
 
-## ⚡ Featured Projects
+## ⚡ Projects in Progress
 
 - **[Vehicle parking system](https://github.com/Dazzanova/parking-lot-oop)** — a vehicle parking system implemented using advanced OOP concepts in C++.
 - **[KleinGPT](https://github.com/Dazzanova/KleinGPT)** — a basic GPT implemented in vanilla python from scratch.
