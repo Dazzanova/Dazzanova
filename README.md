@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-season.svg" width="100%" alt="GitHub Profile"/>
+<img height=300 src="./profile-3d-contrib/profile-season.svg" width="100%" alt="GitHub Profile"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dazzanova/Dazzanova/output/github-contribution-grid-snake.svg" />
