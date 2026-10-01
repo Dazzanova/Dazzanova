@@ -59,9 +59,9 @@
 
 <div align="center">
 
-<img src="./assets/hacktoberfest-2026.png" alt="Hacktoberfest 2026" />
+<img height=500 src="./profile-3d-contrib/profile-season.svg" width="100%" alt="GitHub Profile"/>
 
-<img height=300 src="./profile-3d-contrib/profile-season.svg" width="100%" alt="GitHub Profile"/>
+<img src="./assets/hacktoberfest-2026.png" width="30%" alt="Hacktoberfest 2026" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dazzanova/Dazzanova/output/github-contribution-grid-snake.svg" />
