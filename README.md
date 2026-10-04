@@ -59,9 +59,12 @@
 
 <div align="center">
 
-<img height=500 src="./profile-3d-contrib/profile-season.svg" width="100%" alt="GitHub Profile"/>
+<img height=450 src="./profile-3d-contrib/profile-season.svg" width="100%" alt="GitHub Profile"/>
 
-<img src="./assets/hacktoberfest-2026.png" width="30%" alt="Hacktoberfest 2026" />
+<div align="center" >
+<img src="./assets/hacktoberfest-2026.png" width="20%" alt="Hacktoberfest 2026" />
+<a href="https://cloud.layer5.io/user/4a8b2584-dcaa-4c28-8004-954f654098d0?tab=badges&badge=first-design" alt="First Design" ><img width="200px" height="275px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dazzanova/Dazzanova/output/github-contribution-grid-snake.svg" />
