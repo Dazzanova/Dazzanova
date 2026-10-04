@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img height=450 src="./profile-3d-contrib/profile-season.svg" width="100%" alt="GitHub Profile"/>
+<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="GitHub Profile"/>
 
 <div align="center" >
 <img src="./assets/hacktoberfest-2026.png" width="20%" alt="Hacktoberfest 2026" />
