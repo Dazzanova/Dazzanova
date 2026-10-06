@@ -14,6 +14,8 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
@@ -30,11 +32,14 @@ jobs:
               if git push; then
                 break
               fi
-              echo "git push failed (attempt $attempt), syncing with origin/${GITHUB_REF_NAME} before retry..."
-              git fetch origin "${GITHUB_REF_NAME}"
-              git rebase "origin/${GITHUB_REF_NAME}"
               if [ "$attempt" -eq 3 ]; then
                 echo "git push failed after 3 attempts"
+                exit 1
+              fi
+              echo "git push failed (attempt $attempt), rebasing on origin/${GITHUB_REF_NAME} before retry..."
+              if ! git pull --rebase origin "${GITHUB_REF_NAME}"; then
+                echo "git pull --rebase failed; aborting any in-progress rebase"
+                git rebase --abort || true
                 exit 1
               fi
               echo "git push failed (attempt $attempt), retrying in 10s..."
