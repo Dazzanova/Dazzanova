@@ -26,5 +26,15 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           if git commit -m "chore: update 3d contribution calendar"; then
-            git push
+            for attempt in 1 2 3; do
+              if git push; then
+                break
+              fi
+              if [ "$attempt" -eq 3 ]; then
+                echo "git push failed after 3 attempts"
+                exit 1
+              fi
+              echo "git push failed (attempt $attempt), retrying in 10s..."
+              sleep 10
+            done
           fi
