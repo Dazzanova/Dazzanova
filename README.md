@@ -63,7 +63,7 @@
 
 <div align="center" >
 <img src="./assets/hacktoberfest-2026.png" width="20%" alt="Hacktoberfest 2026" />
-<a href="https://cloud.layer5.io/user/4a8b2584-dcaa-4c28-8004-954f654098d0?tab=badges&badge=first-design" alt="First Design" ><img width="200px" height="275px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://cloud.layer5.io/user/4a8b2584-dcaa-4c28-8004-954f654098d0?tab=badges&badge=first-design" alt="First Design" ><img width="185px" height="260px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <p align="center">
