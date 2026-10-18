@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/daz-banner.png" width="75%" alt="Hi, I am Daz"/>
-
 <table align="center">
 <tr>
 <td width="40%" align="center">
