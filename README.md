@@ -112,13 +112,37 @@ Mostly learning by building, breaking, fixing.
 
 ---
 
+<p align="center">
+  <img
+    src="./profile-3d-contrib/profile-season-animate.svg"
+    width="750"
+    alt="GitHub 3D contribution graph"
+  />
+</p>
+
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" alt="GitHub Profile"/>
+<table border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img
+        src="./assets/hacktoberfest-2026.png"
+        height="180"
+        alt="Hacktoberfest 2026"
+      />
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://cloud.layer5.io/user/4a8b2584-dcaa-4c28-8004-954f654098d0?tab=badges&badge=first-design">
+        <img
+          src="https://badges.layer5.io/assets/badges/first-design/first-design.png"
+          height="220"
+          alt="Layer5 Design Pioneer"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<div align="center" >
-<img src="./assets/hacktoberfest-2026.png" width="20%" alt="Hacktoberfest 2026" />
-<a href="https://cloud.layer5.io/user/4a8b2584-dcaa-4c28-8004-954f654098d0?tab=badges&badge=first-design" alt="First Design" ><img width="185px" height="260px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <p align="center">
