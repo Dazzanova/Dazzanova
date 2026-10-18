@@ -55,11 +55,38 @@ Mostly learning by building, breaking, fixing.
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nextjs,nodejs,flask,docker,linux,git,github,mongodb,mysql,postgres,solidity,tensorflow,pytorch&perline=10"/>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>01 / Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,rust" height="40" alt="C++, Python, Java, JavaScript, TypeScript, Rust"/>
+    </td>
+    <td width="50%" valign="top">
+      <strong>02 / Frontend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs" height="40" alt="React, Next.js"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>03 / Backend & APIs</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,flask" height="40" alt="Node.js, Flask"/>
+    </td>
+    <td width="50%" valign="top">
+      <strong>04 / Data & Storage</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="40" alt="MongoDB, MySQL, PostgreSQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>05 / AI & ML</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40" alt="PyTorch, TensorFlow"/>
+    </td>
+    <td width="50%" valign="top">
+      <strong>06 / Systems & Tooling</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=linux,docker,git,github" height="40" alt="Linux, Docker, Git, GitHub"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
