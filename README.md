@@ -2,7 +2,7 @@
 
 Someone who likes understanding how things work under the hood.
 
-Lately, I've been building in C++, Python, and TypeScript — from systems software and developer tools to language models built from scratch.
+Lately, I have been building across systems engineering, developer tools, and machine learning — from low-level services in Rust to language models built from scratch.
 
 Mostly learning by building, breaking, fixing.
 
@@ -106,9 +106,9 @@ Mostly learning by building, breaking, fixing.
 
 ## 🔎 Currently Exploring
 
-- Building language models from first principles.
-- Writing systems software and learning more about Linux internals.
-- Improving my approach to software architecture and testing.
+- Exploring Linux internals by building a Redis-like server in Rust.
+- Digging into edge cases, regression testing, and system behavior.
+- Contributing targeted fixes to established open-source projects.
 
 ---
 
