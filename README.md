@@ -1,10 +1,10 @@
 # Hey, I'm Daz👋.
 
-Someone who likes understanding how things work under the hood.
+Someone who likes to understand how things work under the hood.
 
-Lately, I have been building across systems engineering, developer tools, and machine learning — from low-level services in Rust to language models built from scratch.
+Lately, I have been building across systems, developer tools, and ML — from low-level services in Rust to language models built from scratch.
 
-Mostly learning by building, breaking, fixing.
+Mostly learning by building, breaking and fixing.
 
 ---
 
