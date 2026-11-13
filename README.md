@@ -1,4 +1,4 @@
-# Hey, I'm Daz👋.
+# Hey, I'm Daz👋
 
 Someone who likes to understand how things work under the hood.
 
@@ -39,8 +39,7 @@ Mostly learning by building, breaking and fixing.
   under adversarial evidence, with a focus on calibration and auditability.
 
 - **[KleinGPT](https://github.com/Dazzanova/KleinGPT)**  
-  A small language model built from first principles, working
-  from tokenization and bigram models toward a Transformer.
+  Implementing language models from scratch in Python, exploring tokenization, training pipelines, attention mechanisms, and Transformer architecture.
 
 - **[Parking Lot OOP](https://github.com/Dazzanova/parking-lot-oop)**  
   A C++ parking system exploring polymorphism, RAII, smart pointers,
@@ -153,7 +152,7 @@ Mostly learning by building, breaking and fixing.
 
 ---
 
-## 🌐 Hit me up!
+## 🌐 Let's connect!
 
 <p align="center">
   <a href="https://github.com/Dazzanova">
