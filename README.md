@@ -54,62 +54,19 @@ Mostly learning by building, breaking and fixing.
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>01 / Languages</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,rust" height="40" alt="C++, Python, Java, JavaScript, TypeScript, Rust"/>
-    </td>
-    <td width="50%" valign="top">
-      <strong>02 / Frontend</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs" height="40" alt="React, Next.js"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>03 / Backend & APIs</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,flask" height="40" alt="Node.js, Flask"/>
-    </td>
-    <td width="50%" valign="top">
-      <strong>04 / Data & Storage</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" height="40" alt="MongoDB, MySQL, PostgreSQL"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>05 / AI & ML</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="40" alt="PyTorch, TensorFlow"/>
-    </td>
-    <td width="50%" valign="top">
-      <strong>06 / Systems & Tooling</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=linux,docker,git,github" height="40" alt="Linux, Docker, Git, GitHub"/>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=cpp,python,rust,pytorch,linux,docker,git" height="40" alt="C++, Python, Rust, PyTorch, Linux, Docker, Git"/>
 
 ---
 
-## 🧠 Focus Areas
+## 🔎 Current Focus
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/DSA-C%2B%2B-2F80ED?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-PyTorch-2F80ED?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM%20Engineering-QLoRA-2F80ED?style=flat-square&logo=huggingface&logoColor=white"/>
-<img src="https://img.shields.io/badge/Systems-Linux-2F80ED?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source-GitHub-2F80ED?style=flat-square&logo=github&logoColor=white"/>
-
-</div>
-
----
-
-## 🔎 Currently Exploring
-
-- Exploring Linux internals by building a Redis-like server in Rust.
+- Building a Redis-like server in Rust to understand Linux internals and systems programming.
 - Digging into edge cases, regression testing, and system behavior.
 - Contributing targeted fixes to established open-source projects.
 
 ---
+
+## 🏅 Recognition
 
 <div align="center">
 
@@ -140,11 +97,9 @@ Mostly learning by building, breaking and fixing.
   <img src="https://raw.githubusercontent.com/Dazzanova/Dazzanova/output/github-contribution-grid-snake.svg" />
 </p>
 
-</div>
-
 ---
 
-## 🌐 Let's connect!
+## 🌐 Connect
 
 <p align="center">
   <a href="https://github.com/Dazzanova">
