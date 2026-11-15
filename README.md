@@ -111,14 +111,6 @@ Mostly learning by building, breaking and fixing.
 
 ---
 
-<p align="center">
-  <img
-    src="./profile-3d-contrib/profile-season-animate.svg"
-    width="750"
-    alt="GitHub 3D contribution graph"
-  />
-</p>
-
 <div align="center">
 
 <table border="0">
