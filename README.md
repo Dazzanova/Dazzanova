@@ -66,33 +66,6 @@ Mostly learning by building, breaking and fixing.
 
 ---
 
-## 🏅 Recognition
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img
-        src="./assets/hacktoberfest-2026.png"
-        height="180"
-        alt="Hacktoberfest 2026"
-      />
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://cloud.layer5.io/user/4a8b2584-dcaa-4c28-8004-954f654098d0?tab=badges&badge=first-design">
-        <img
-          src="https://badges.layer5.io/assets/badges/first-design/first-design.png"
-          height="220"
-          alt="Layer5 Design Pioneer"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dazzanova/Dazzanova/output/github-contribution-grid-snake.svg" />
 </p>
